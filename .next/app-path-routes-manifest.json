@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/query/route": "/query",
+  "/seed/route": "/seed",
+  "/login/page": "/login",
+  "/page": "/",
+  "/dashboard/(overview)/page": "/dashboard",
+  "/dashboard/invoices/[id]/edit/page": "/dashboard/invoices/[id]/edit",
+  "/dashboard/invoices/create/page": "/dashboard/invoices/create",
+  "/dashboard/invoices/page": "/dashboard/invoices",
+  "/dashboard/customers/page": "/dashboard/customers"
+}
